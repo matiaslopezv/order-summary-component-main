@@ -57,8 +57,9 @@ button:hover{
 body{
     background-image: url(../images/pattern-background-mobile.svg);
     background-repeat:no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
+    background-color: var(--pale-blue);
     height: 100vh;
 }
 
